@@ -1,0 +1,3 @@
+[submodule "seadrop"]
+	path = seadrop
+	url = https://github.com/ProjectOpenSea/seadrop
